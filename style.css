@@ -1,0 +1,22 @@
+* {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	color: yellow;
+	font-size: 30px;
+}
+
+ul {
+	color: white;
+	font-size: 30px;
+}
+
+p {
+	color: white;
+	font-size: 27px;
+}
